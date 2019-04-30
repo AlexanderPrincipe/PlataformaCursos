@@ -3,11 +3,16 @@ module.exports = {
 
     database: {
         connectionLimit: 10,
-        host: 'localhost',
-        user: 'alexander',
-        //password: 'Password1',
-        password: 'Alexrrlalh25!',
-        database: 'database_links'
+        
+        host:'us-cdbr-iron-east-02.cleardb.net',   
+        user:'b88ac98fc118d2',  
+        password:'8daa2e44',
+        database: 'heroku_fb8fc7b3b7789cc'
+
+        //host: 'localhost',
+        //user: 'alexander',
+        //password: 'Alexrrlalh25!',
+        //database: 'database_links'
     }
 
 };
