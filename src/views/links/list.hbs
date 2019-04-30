@@ -19,23 +19,24 @@
                     <p class="text-muted">
                         {{timeago created_at}}
                     </p>
+                    <!--
                     <a class="btn btn-danger" href="/links/delete/{{id}}">
                         Borrar Link
                     </a>
                     <a class="btn btn-secondary" href="/links/edit/{{id}}">
                         Editar
-                    </a>
+                    </a>-->
                 </div>
                 <div class="card-footer">
                     <form action="/checkout" method="POST">
                         <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                            data-key="pk_test_QtYP2bKoBJSdlqrHZxl8XxAv" data-amount="300" data-name="Curso SQL"
+                            data-key="pk_test_QtYP2bKoBJSdlqrHZxl8XxAv" data-amount="300" data-name="Curso de Git"
                             data-description="Ulima"
                             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
                             data-locale="auto">
                             </script>
                         <button type="submit" class="btn btn-dark btn-block">
-                            Buy <i class="fas fa-shopping-cart"></i>
+                            Comprar <i class="fas fa-shopping-cart"></i>
                         </button>
                         <script>
                             document.getElementsByClassName("stripe-button-el")[0].style.display = 'none';
