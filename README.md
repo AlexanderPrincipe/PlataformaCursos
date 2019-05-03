@@ -10,8 +10,7 @@ Para desplegar la aplicacion se uso los servicios de Heroku y ClearMYsql(Servici
 
 Probar la aplicacion en version beta: https://plataformacursos.herokuapp.com/
 
-
-
+Bugs: En la pestaña entrar, en el formulario, si se presiona Entrar, ocurre un error, falta la validacion del formulario de Entrar
 
 
 
