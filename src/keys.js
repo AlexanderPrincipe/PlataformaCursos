@@ -11,7 +11,7 @@ module.exports = {
 
         //host: 'localhost',
         //user: 'alexander',
-        //password: 'Alexrrlalh25!',
+        //password: 'c',
         //database: 'database_links'
     }
 

@@ -1,0 +1,10 @@
+Ingresar a MySQL : mysql -u alexander -p
+
+User: alexander
+Password: Alexrrlalh25!
+
+Comando MySQl: mysql -h nombre_servidor -u nombre_usuario -p
+               mysql -h us-cdbr-iron-east-02.cleardb.net -u b88ac98fc118d2 -p
+User: b88ac98fc118d2
+Password: 8daa2e44
+Servidor: us-cdbr-iron-east-02.cleardb.net
