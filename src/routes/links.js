@@ -8,6 +8,7 @@ router.get('/add', (req, res) => {
     res.render('links/add');
 });
 
+
 router.post('/add', async (req, res) => {
     const { title, url, description } = req.body;
     const newLink = {
@@ -20,6 +21,7 @@ router.post('/add', async (req, res) => {
     req.flash('success', 'Link Saved Successfully');
     res.redirect('/links');
 });
+
 
 router.get('/', isLoggedIn, async (req, res) => {
     const links = await pool.query('SELECT * FROM links WHERE user_id = ?', [req.user.id]);
