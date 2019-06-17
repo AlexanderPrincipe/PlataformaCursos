@@ -14,4 +14,5 @@ Bugs: En la pestaña entrar, en el formulario, si se presiona Entrar, ocurre un 
 
 ![Captura de pantalla de 2019-06-17 13-58-14](https://user-images.githubusercontent.com/31213239/59629229-fb64da00-9107-11e9-9524-d7a63599c366.png)
 
+![Captura de pantalla de 2019-06-17 13-59-49](https://user-images.githubusercontent.com/31213239/59629338-3830d100-9108-11e9-96c9-d15351df2dc7.png)
 
