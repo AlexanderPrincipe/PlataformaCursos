@@ -12,5 +12,6 @@ Probar la aplicacion en version beta: https://plataformacursos.herokuapp.com/
 
 Bugs: En la pestaña entrar, en el formulario, si se presiona Entrar, ocurre un error, falta la validacion del formulario de Entrar
 
+![Captura de pantalla de 2019-06-17 13-58-14](https://user-images.githubusercontent.com/31213239/59629229-fb64da00-9107-11e9-9524-d7a63599c366.png)
 
 
